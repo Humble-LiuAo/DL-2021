@@ -6,11 +6,11 @@ Instructor: Hung-yi Lee
 Course Website : (https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)
 
 ## Homeworks
-|#|Homework|Public score|Private Score|Score|Ranking*
+|#|Homework|
 |-|-|-|-|-|-|
 |1|Regression|
 |2|Classification|
-|3|CNN|0.83094|
+|3|CNN|
 |4|Self-Attention|
 |5|Transformer|
 |6|GAN|
