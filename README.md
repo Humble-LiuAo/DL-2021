@@ -7,7 +7,7 @@ Course Website : (https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html)
 
 ## Homeworks
 |#|Homework|
-|-|-|-|-|-|-|
+|-|-|
 |1|Regression|
 |2|Classification|
 |3|CNN|
